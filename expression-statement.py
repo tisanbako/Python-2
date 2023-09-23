@@ -1,12 +1,3 @@
-price = "100"
-print(price)
-print(type(price))
-
-new_price = int(price)
-print(new_price)
-print(type(new_price))
-print(new_price + 200)
-
-price2 = str(new_price)
-print(price2)
-print(type(price2)) 
+#Expression is a piece of code that produces value eg
+iq = 90
+user_score = iq/5 # here 1q/5 is an expression ad it produces avalue of 
