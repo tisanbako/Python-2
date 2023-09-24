@@ -10,3 +10,12 @@ print (name)
 # name = "jeremiah"
 # name[0] = "g" #trying to change fomr jeremiah to geremiah
 #print(name) it will give erroe as tring objects not suppor item assignmemt
+#so we cannot change the characters in a string once it is created
+
+#the only way we can change a string value is to reassign a new value eg
+
+age = 33
+
+age = 20
+
+print(age)
