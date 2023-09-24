@@ -18,4 +18,4 @@ print(property[:3])    #  abc
 print(property[1:8:2]) #bdfh
 print(property[-1]) #1 printing on reverse mode
 print(property[::-1]) #ihgfedcba
-# print(property[::-2]) #igeca
+print(property[::-2]) #igeca
