@@ -1,9 +1,8 @@
-# name = {"izzy", "amaka", "David"}
-# print(name.add("philip"))
-# print(name)
+user = "patrick"
+age = 55 
 
-thisset = {"apple", "banana", "cherry"}
+#concatenation
+print("hello " + user + "," + " " + "you are " + str(age) + " years old")
 
-print(thisset.add("orange"))
-
-# print(thisset)
+#string formating
+print(f"hello {user}. You are {age} years old" )
