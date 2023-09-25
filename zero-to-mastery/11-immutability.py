@@ -18,4 +18,9 @@ age = 33
 
 age = 20
 
-print(age)
+print(age) #here we reassigned a new value to age or 
+
+score = 30
+
+score = score + 10
+print(score)
