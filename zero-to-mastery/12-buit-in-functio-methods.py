@@ -11,6 +11,7 @@ print(name.capitalize()) #method
 #FUNCTION
 
 print(len("hellllloooo"))
+print(input("what is your name"))
 
 greet = "hellloooo"
 print(greet[:]) #hellloooo
