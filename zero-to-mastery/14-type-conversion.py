@@ -11,7 +11,7 @@ print(relationship_status)
 
 birth_year = input("what year were you born? ") #your birthyear is input as a str
 
-age = 2023 - int(birth_year) #converting birth yeat to int
+age = 2023 - int(birth_year) #converting birth year to int
 #we can also conver it to float
 
 print(f"your age is: {age}")
