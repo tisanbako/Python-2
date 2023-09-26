@@ -16,6 +16,8 @@ password_length = len(password) #star times legth of the password above
 hidden_password = "*" * (password_length) #to get the *** for the length
 print(f"{username}, your password {hidden_password} is {password_length} letters long")
 
+#pitput will be Jay, your password ************ is 12 letters long
 
+#this was the password is not shown
 
 
