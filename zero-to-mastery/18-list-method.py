@@ -28,5 +28,5 @@ basket2.insert(3, 100) #insert 100 at the index of 3
 print(basket2)
 
 basket3 = [1,2,0,4,5]
-basket.extend(13)
+basket3.extend([13]) #if i wrapped this up with a print eg print(basket3.extend([13])) it will return zero as methoths need to be tied to an object in this case a variable
 print(basket3)
