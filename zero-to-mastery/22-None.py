@@ -1,1 +1,1 @@
-#None represents the 
+#None represents the absense
