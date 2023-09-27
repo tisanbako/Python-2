@@ -1,6 +1,6 @@
 #we can combine a list to a string by using the join method
 sentence = ""
-sentence.join(["hi", "my", "name", "is", "Tisan"]) #this will give is black space
+sentence.join(["hi", "my", "name", "is", "Tisan"]) #this will give is blank space
 print(sentence)
 
 #to achieve this we need to give create a new variable to convert the list to string

@@ -16,4 +16,25 @@ print("hello " + user + "," + " " + "you are " + str(age) + " years old") #This 
 #Now instead of ading + "" and calculating spaces, we just use f in the 
 #begining with the variables in curlybraces eg
 print(f"hello {user}. You are {age} years old" )
-#unlike concactination, this is short and clean, no + or "" trying to find space 
+#unlike concactination, this is short and clean, no + or "" 
+# trying to find space 
+
+
+#FORMATTING FLOATS WITH DECIMAL PLACES
+
+price = 49
+print(f"You can get it for only {price:.2f} dollars!")
+#here price: This is the variable or value that you want to insert into the string.
+#:: The colon is used to indicate that you are specifying a format.
+#.2f: This is a format specification. It means that you want to format 
+#price as a floating-point number with 2 decimal places (hence the 2 after the dot).
+
+
+
+#For example, if price is 19.99, using 
+# {price:.2f} in a string will result in "19.99".
+price = 19.99
+# formatted_price = f"The price is {price:.2f} dollars."
+# print(formatted_price)
+print(f"the price is {price}") #for consstecy ypu can use {price:.2} it 
+#will return thesame value
