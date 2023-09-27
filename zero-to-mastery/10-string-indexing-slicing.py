@@ -19,3 +19,7 @@ print(property[1:8:2]) #bdfh
 print(property[-1]) #1 printing on reverse mode
 print(property[::-1]) #ihgfedcba
 print(property[::-2]) #igeca
+
+name_1 = "Varun"
+name_2 = "T" + name_1[1:]
+print(name_2)         #Tarun
