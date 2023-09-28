@@ -111,3 +111,8 @@ names2 = []
 
 names2.append(names[1])
 print(names2)
+
+z1 = "jeremiah"
+z2 = (z1.replace("j", "ge" ))
+print(z2)
+
