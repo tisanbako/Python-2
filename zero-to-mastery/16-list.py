@@ -54,3 +54,18 @@ print(my_cart)
 
 #there's a difference with modifying a list and copying a list. 
 
+#lets create a dictionary in a list
+my_list = [{"a":[4,5,6], "b":"hello", "x":True}, {"a":[1,2,3], "b":"hello", "x":True}]
+print(my_list[0]["a"][2])     #the first from the list the first item in the array, 
+#the "a" key and the third [2] item in the a key
+
+
+#Rememember, list are mutable eg
+name = [2,3,4]
+name[0]=5
+print(name)
+
+#but float, tupple, int, str are not mutable eg
+# name2 = "Jeremiah"
+# name2[0]= "g"
+# print(name2)        it will throw an arror and str objects dont support reassignment
