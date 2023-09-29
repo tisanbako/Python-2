@@ -116,3 +116,16 @@ z1 = "jeremiah"
 z2 = (z1.replace("j", "ge" ))
 print(z2)
 
+names = ["bahbell@bell", "lak@daar", "lak@berger"]
+names2 = []
+
+for i in names:
+    l2 = i.split("@")
+
+    names2.append(l2[1])
+    print(names2)
+    print(id(names2)) 
+    print(id(i))
+
+saying = ["it", "shall", "not", "be", "well"]
+print()
