@@ -9,7 +9,7 @@ user = {"basket":[1,2,3],
 # else:
 #     print("it's not")    
 
-#we can check if an item ic present in a dict just like in list eg
+#we can check if an item is present in a dict just like in list eg
 print("basket" in user)    #True.. does basket exist in user?
 print("name" in user)         #False
 

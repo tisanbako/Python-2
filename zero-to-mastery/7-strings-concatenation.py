@@ -28,7 +28,8 @@ print(full_name)
 #or add a string with space " " on full name
 name = "jeremiah"
 surname = "bako"
-(name + " " + surname)
+print(f"your name is {name} {surname}") #my exp using format function
+
 # print(full_name)
 
 #STRING CONCATENATION
