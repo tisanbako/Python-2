@@ -21,3 +21,5 @@ if old_enough and has_licence: #: means true
     print("you can drive now")
 else:
     print("you are not of age")    
+
+#Another way to do the if else logic is using Ternary Operator   

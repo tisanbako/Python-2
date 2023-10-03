@@ -18,7 +18,13 @@ else:
     print("you are not of age")
 
 #it printed you can drive now because python coverted 5 and "hello" to boolean lie
-print(bool(5))
-print(bool("hello"))    
+print(bool(5))        #True or Truthy
+print(bool("hello"))     #True or Truthy
+
+print(bool(0))         #False or falsy
+print(bool(""))     #False or falsy
+
+#google what is truthy and Falsey to see all data types that are True or False
+
 
 
