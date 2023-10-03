@@ -42,6 +42,8 @@ msg2 = "hmu"
 #to make it one 
 msg3 = (msg + " " + msg2)
 print(msg3)
+print(f"{msg}, {msg2}") #using format function
 
 print("Tisan" + " Bako")
+
 

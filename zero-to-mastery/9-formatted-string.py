@@ -25,8 +25,8 @@ print(f"hello {user}. You are {age} years old" )
 price = 49
 print(f"You can get it for only {price:.2f} dollars!")
 #here price: This is the variable or value that you want to insert into the string.
-#:: The colon is used to indicate that you are specifying a format.
-#.2f: This is a format specification. It means that you want to format 
+#: The colon is used to indicate that you are specifying a format.
+#.2f This is a format specification. It means that you want to format 
 #price as a floating-point number with 2 decimal places (hence the 2 after the dot).
 
 
