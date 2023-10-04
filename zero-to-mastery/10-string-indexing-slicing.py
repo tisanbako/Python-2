@@ -5,7 +5,7 @@ print(selfish[1]) #2
 print(selfish[2]) # space
 
 
-#SLICING - this is used to access different part of a string
+#SLICING - this is used to access different part of a string and list
 property = "abcdefghi"
            #123456789
 #[start:stop at:stepover]

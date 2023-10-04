@@ -51,6 +51,7 @@ my_cart2 = my_cart[:]
 my_cart2[0] = "nokia"
 print(my_cart2)
 print(my_cart)
+print(my_cart[0:2])
 
 #there's a difference with modifying a list and copying a list. 
 
