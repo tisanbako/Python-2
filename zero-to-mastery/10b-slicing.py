@@ -1,6 +1,4 @@
-#NOTES FOR SLICING
-#IF WE ARE CLICING FROM LEFT (FORWARD) WE USE THE FORMULAR FOMR THE RIGHT start:stop:skip
-#IF WE WANT TO SLICE FORM BACKWARDS WE USE THE FORMULAR BACKWARDS skip:stop:start
+
 
 
 
@@ -28,5 +26,7 @@
 #SET WE CAN SLICE SET SAME WAY WE SLICE LIST AND STR
 friends = ("abby", "jonathan", "becky", "ryan", "meghan", "taisia")
 print(friends[::-1])  #('taisia', 'meghan', 'ryan', 'becky', 'jonathan', 'abby')
-print(friends[-1::])   
-# print(friends[-3:-7:-2]) 
+print(friends[-1::])   #('taisia',)
+print(friends[-3:-6:-2])  #('ryan', 'jonathan')
+print(friends[4::-1])  #('meghan', 'ryan', 'becky', 'jonathan', 'abby')
+print(friends[5::-1])  #('taisia', 'meghan', 'ryan', 'becky', 'jonathan', 'abby')
