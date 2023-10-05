@@ -13,3 +13,10 @@ print(pass_mark)
 
 
 #we can + - * / **
+score = 25
+score -= 5
+print(score)
+
+class_number = 35
+class_number *= 2
+print(class_number)
