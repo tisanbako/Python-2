@@ -1,4 +1,4 @@
-#we can combine a list to a string by using the join method
+#we can convert a list to a string by using the join method
 sentence = ""
 sentence.join(["hi", "my", "name", "is", "Tisan"]) #this will give is blank space
 print(sentence)
