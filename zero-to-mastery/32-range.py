@@ -1,5 +1,5 @@
 #when looping in python, one of the most common tools used is range function
-#Rance returns an obhect that produces a sequence of integers from start(inclusive)
+#Rance returns an object that produces a sequence of integers from start(inclusive)
 #to stop (exclusive) by step
 #Range creates a special kind of object that we can iterate over
 
@@ -32,6 +32,6 @@ for l in range(10, 0, -2):
 print(list(range(10)))    #[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 for r in range(2):
-    print(list(range(10)))   #this is saying print 1-9 and convert to list twice
+    print(list(range(10)))   #this is saying print 0-9 and convert to list twice
   
 
