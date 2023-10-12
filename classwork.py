@@ -1,4 +1,4 @@
-is_magician = True
+is_magician = True.
 is_expert = False 
 
 #1. Check if magician AND expert: print "you are a master magician"
