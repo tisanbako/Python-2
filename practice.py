@@ -149,7 +149,7 @@ def total_marks(mark):
 
 marks = [55,64,75,80,65]
 average_mark = total_marks(marks)
-print(average_mark)
+
 
 
 
