@@ -52,7 +52,7 @@ counter = 0    # first we create a variable outside the loop that is equal to 0 
 for item in my_list:
     counter = counter + item
 
- #this has to be outside the loop blook if not it will be looped over   
+print(counter)  #this has to be outside the loop blook if not it will be looped over   
 
 
 
