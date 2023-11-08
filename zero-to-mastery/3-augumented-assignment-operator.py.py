@@ -1,4 +1,4 @@
-#we we have a variable with value like
+#here we have a variable with value like
 pass_mark = 90
 
 #if we want to add 10 to 90 we can say
