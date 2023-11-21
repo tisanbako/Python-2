@@ -21,7 +21,7 @@ while i < 50:
     
 
 #what if i want it to be looped 20 times? we need to increase the variable 
-#so we don't get an infinite loop
+#so we don't get an infinite loop.
 
 b = 0
 
