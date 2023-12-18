@@ -9,5 +9,5 @@ set
 tuple 
 
 #Classes -custom type
-#specialized data type
+#specialized data type.
 #None
