@@ -1,6 +1,6 @@
 
 # # # for a in fruits2:
-# # #     print(a)     #this is to iterate the whole list
+# # #     print(a)     #this is to iterate the whole list.
 # # #     if a == "grapes": 
 # # #         print("found the fruit we have been looking for") 
 # # #         break
@@ -20,6 +20,11 @@
 # #     print(bmi)
 # # calculating_bmi(1.75, 75)    
 
+def student_info(name, age, location):
+    return f"Hello {name}, with age {age}, your location is {location}"
+
+all_info = student_info("Tisan", 25, "Lagos")
+print(all_info)
 
 
 
@@ -150,6 +155,17 @@ def total_marks(mark):
 marks = [55,64,75,80,65]
 average_mark = total_marks(marks)
 print(average_mark)
+
+
+
+
+
+
+numbers = [18,62,75,83,45]
+
+print(67.8 * 5)
+print(sum(numbers))
+print(sum(numbers)/5)
 
 
 
