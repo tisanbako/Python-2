@@ -4,5 +4,5 @@
 # #  list
 
 # #And for Vamsi's assignment 4. the reason why the append worked on all the 
-# #list is because company_name.append is a part of the loop
+# #list is because company_name.append is a part of the loop.
 
