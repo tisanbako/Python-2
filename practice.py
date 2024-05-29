@@ -1,4 +1,3 @@
-#practice
 # # # for a in fruits2:
 # # #     print(a)     #this is to iterate the whole list.
 # # #     if a == "grapes": 
